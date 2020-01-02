@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/trungtranmobile97/rn-ttt-btn/issues"
   },
-  "homepage": "https://github.com/trungtranmobile97/rn-ttt-btn#readme"
+  "homepage": "https://github.com/trungtranmobile97/rn-ttt-btn#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
+  }
 }
