@@ -1,0 +1,23 @@
+{
+  "name": "rn-ttt-btn",
+  "version": "1.0.0",
+  "description": "Button demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trungtranmobile97/rn-ttt-btn.git"
+  },
+  "keywords": [
+    "Demo",
+    "Publish"
+  ],
+  "author": "tttrung97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trungtranmobile97/rn-ttt-btn/issues"
+  },
+  "homepage": "https://github.com/trungtranmobile97/rn-ttt-btn#readme"
+}
